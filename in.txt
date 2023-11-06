@@ -1,0 +1,1 @@
+SeLeCt * FrOm tAble1 WhErE id123 = 42;

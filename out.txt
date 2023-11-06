@@ -1,0 +1,6 @@
+Keyword :SeLeCt
+Keyword :FrOm
+ID:tAble1
+Keyword :WhErE
+ID:id123
+ID:42
